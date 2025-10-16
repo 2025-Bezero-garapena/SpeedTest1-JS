@@ -10,9 +10,9 @@ Erabili ditzakezue nabigatzaileak eta IDEak eskaintzen dituen herramientak.
 Orrialde honetan, sortu nahi da bonolotoaren zenbaki sorta bat. Bonolotoaren egitura 6 zenbaki dira 1 eta 49 artean eta zenbanki osagarri bat 1-9 artean.
 
 Egin JSko programa non botoia sakatzerakoan, ausazko 6 zenbakiak eta osagarria lortuko dituena. Kontautan izan 6 zenbakiak ezin direla errepikatu eta osagarri bakarra lortu behar dela.
-Lortutako zenbakiak web orrian bistaratu behar dira ordenatuta txikitik handira, eta jarraina osagarria.
+Lortutako zenbakiak web orrian bistaratu behar dira ordenatuta txikitik handira, eta jarraian osagarria besteetatik bereiztuta.
 
 ## Ariketa 3
 Sortu atzerako kontaketa bat jakiteko zenbat egun, ordu, minutu eta segundu falta diren ebaluaketa egunerako.
 
-Kontaketa, segunduro eguneratu behar da.
+Kontaketa, segunduro eguneratu behar da eta bi digitoko formatuan agertu behar da (hau da, 5 segundo badira, 05 bezala agertu beahr da).
